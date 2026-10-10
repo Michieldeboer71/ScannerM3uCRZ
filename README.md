@@ -1,0 +1,2 @@
+# ScannerM3uCRZ
+Superscan
